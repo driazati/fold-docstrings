@@ -1,0 +1,6 @@
+{
+	"name": "fold-python-docstrings",
+	"description": "Folds all python docstrings in the current file",
+	"respository": "https://github.com/driazati/fold-python-docstrings",
+	"version": "0.0.0",
+}
